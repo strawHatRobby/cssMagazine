@@ -1,0 +1,10 @@
+{
+  "name": "poppinAnimation",
+  "version": "1.0.0",
+  "description": "\"Animation using Popping library\"",
+  "main": "index.js",
+  "repository": "https://www.github.com/strawHatRobby/cssMagazine",
+  "author": "strawHatRobby <mailrobinfrancis@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
