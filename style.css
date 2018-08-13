@@ -1,0 +1,18 @@
+.circle {
+    float: left;
+    width: 120px;
+    height: 120px;
+    background-color: #FD5605;
+    border-radius: 50%;
+    shape-outside: circle();
+    margin: 5px;
+}
+
+.polygon {
+    float:right;
+    width: 120px;
+    height:150px;
+    background-color: aquamarine;
+    shape-outside: polygon(0 0, 288px 0,466px 240px, 0 240px);
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+}
